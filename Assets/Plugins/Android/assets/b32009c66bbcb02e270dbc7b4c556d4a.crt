@@ -1,0 +1,70 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 19198 (0x4afe)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=CN, ST=Shanghai, L=Shanghai, O=Deepoon, OU=Deepoon, CN=www.deepoon.com
+        Validity
+            Not Before: Apr  6 11:39:38 2017 GMT
+            Not After : Jun  6 03:39:39 2017 GMT
+        Subject: C=CN, ST=Shanghai, L=99999999, O=41773476, OU=11000459, CN=VM2samsungexynos74208B6802A01228/emailAddress=00000000
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b5:f7:3c:57:77:d8:4b:d7:ef:ea:13:38:02:9a:
+                    db:31:f2:40:c2:14:d0:59:fb:e2:9d:36:f2:2c:ac:
+                    d4:f8:b2:ab:21:31:a6:17:6e:98:1d:c1:43:f2:2e:
+                    9b:d4:3e:9b:eb:80:af:b2:44:b4:c7:4f:7c:da:50:
+                    00:38:2d:6d:01:4f:ac:5c:52:3b:8f:01:2c:d1:3a:
+                    40:7f:fd:51:eb:92:30:e2:62:f0:10:82:2a:16:9d:
+                    fa:a4:41:69:6a:5a:35:00:a0:74:0f:49:6d:36:2e:
+                    02:76:57:07:24:41:9d:0a:1d:1d:31:15:1e:a1:4a:
+                    c1:ef:83:4f:da:4c:5b:a6:b1:57:57:e2:fe:e3:0d:
+                    6c:63:2f:1a:14:12:36:d1:0b:e3:44:0a:f2:ba:fd:
+                    8a:6f:84:04:ee:2b:39:9e:39:73:4a:d4:e1:68:2a:
+                    8f:1b:8f:67:9e:14:43:ed:ac:2a:9b:1d:75:d1:4d:
+                    8c:c7:cc:77:15:fd:1e:00:d9:6c:d2:21:3d:bb:71:
+                    08:13:c8:f7:20:8a:20:d9:06:d2:e2:ff:3b:8f:b4:
+                    ae:43:86:b8:65:e5:03:f7:84:88:06:9a:d8:f5:ce:
+                    13:d6:f1:c8:08:8e:d9:21:c1:f9:9b:9a:77:22:60:
+                    64:be:df:16:1c:94:a0:a5:88:f2:9b:57:e4:1c:75:
+                    94:91
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         3f:84:2e:6a:68:13:e1:2e:98:05:4f:cf:4f:5b:16:e1:47:5c:
+         9a:19:8e:ee:58:6a:a4:f9:e6:af:c6:00:a9:30:86:08:17:dd:
+         2d:96:24:eb:6f:a5:e0:67:91:94:ba:1e:c5:00:4d:8e:09:bc:
+         07:4e:84:11:e6:0b:b5:e1:3f:45:4b:2c:d8:d2:16:a7:0b:c9:
+         b4:f2:a0:27:d5:dd:02:08:28:41:17:a1:74:fc:7a:62:9d:aa:
+         45:9a:63:23:ba:11:80:86:a8:49:5e:4a:0b:25:68:c7:32:47:
+         2d:e0:de:6d:a4:a4:e2:ca:8c:0b:d5:b3:47:74:16:83:b8:9c:
+         ef:be:a8:71:9f:68:64:98:6f:d0:ae:da:f5:3e:98:9a:3c:23:
+         d5:95:14:42:5b:cf:51:f9:4c:45:aa:5d:05:a3:cb:f3:fc:2c:
+         0f:d2:a5:f6:22:81:94:3e:9d:ba:52:5b:eb:0c:c1:01:df:7b:
+         c7:20:fa:31:6a:26:11:a3:de:31:5e:19:c8:a7:56:fa:bd:04:
+         56:d3:56:e9:58:4d:04:bd:2e:0b:12:d6:d5:55:1a:4c:6b:c2:
+         e5:fd:32:de:f9:8f:a2:a3:c8:4c:d8:96:59:f3:cd:4c:fc:d5:
+         2a:c8:5f:66:d8:f2:d2:64:18:9f:ed:74:5a:1d:30:7f:38:d8:
+         e7:b9:32:79
+-----BEGIN CERTIFICATE-----
+MIIDhDCCAmwCAkr+MA0GCSqGSIb3DQEBBAUAMHExCzAJBgNVBAYTAkNOMREwDwYD
+VQQIDAhTaGFuZ2hhaTERMA8GA1UEBwwIU2hhbmdoYWkxEDAOBgNVBAoMB0RlZXBv
+b24xEDAOBgNVBAsMB0RlZXBvb24xGDAWBgNVBAMMD3d3dy5kZWVwb29uLmNvbTAe
+Fw0xNzA0MDYxMTM5MzhaFw0xNzA2MDYwMzM5MzlaMIGdMQswCQYDVQQGEwJDTjER
+MA8GA1UECAwIU2hhbmdoYWkxETAPBgNVBAcMCDk5OTk5OTk5MREwDwYDVQQKDAg0
+MTc3MzQ3NjERMA8GA1UECwwIMTEwMDA0NTkxKTAnBgNVBAMMIFZNMnNhbXN1bmdl
+eHlub3M3NDIwOEI2ODAyQTAxMjI4MRcwFQYJKoZIhvcNAQkBFggwMDAwMDAwMDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALX3PFd32EvX7+oTOAKa2zHy
+QMIU0Fn74p028iys1PiyqyExphdumB3BQ/Ium9Q+m+uAr7JEtMdPfNpQADgtbQFP
+rFxSO48BLNE6QH/9UeuSMOJi8BCCKhad+qRBaWpaNQCgdA9JbTYuAnZXByRBnQod
+HTEVHqFKwe+DT9pMW6axV1fi/uMNbGMvGhQSNtEL40QK8rr9im+EBO4rOZ45c0rU
+4WgqjxuPZ54UQ+2sKpsdddFNjMfMdxX9HgDZbNIhPbtxCBPI9yCKINkG0uL/O4+0
+rkOGuGXlA/eEiAaa2PXOE9bxyAiO2SHB+ZuadyJgZL7fFhyUoKWI8ptX5Bx1lJEC
+AwEAATANBgkqhkiG9w0BAQQFAAOCAQEAP4QuamgT4S6YBU/PT1sW4UdcmhmO7lhq
+pPnmr8YAqTCGCBfdLZYk62+l4GeRlLoexQBNjgm8B06EEeYLteE/RUss2NIWpwvJ
+tPKgJ9XdAggoQRehdPx6Yp2qRZpjI7oRgIaoSV5KCyVoxzJHLeDebaSk4sqMC9Wz
+R3QWg7ic776ocZ9oZJhv0K7a9T6Ymjwj1ZUUQlvPUflMRapdBaPL8/wsD9Kl9iKB
+lD6dulJb6wzBAd97xyD6MWomEaPeMV4ZyKdW+r0EVtNW6VhNBL0uCxLW1VUaTGvC
+5f0y3vmPoqPITNiWWfPNTPzVKshfZtjy0mQYn+10Wh0wfzjY57kyeQ==
+-----END CERTIFICATE-----
