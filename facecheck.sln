@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facecheck", "facecheck.csproj", "{BF61A338-7F4E-BD98-B91D-6188B8B9C609}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facecheck.Editor", "facecheck.Editor.csproj", "{DCE4F954-7255-5DDB-08AB-1EE8A5CBAB04}"

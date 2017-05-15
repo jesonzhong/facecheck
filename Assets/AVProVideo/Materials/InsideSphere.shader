@@ -1,4 +1,6 @@
-﻿Shader "Unlit/InsideSphere"
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Unlit/InsideSphere"
 {
     Properties
     {
@@ -143,7 +145,7 @@
             v2f vert (appdata v)
             {
                 v2f o;
-                o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+                o.vertex = UnityObjectToClipPos(v.vertex);
 #if !HIGH_QUALITY
 				o.uv.xy = TRANSFORM_TEX(v.uv, _MainTex);
                 o.uv.xy = float2(1-o.uv.x, o.uv.y);
